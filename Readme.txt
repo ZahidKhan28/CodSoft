@@ -25,22 +25,28 @@
 ## 📸 Screenshots
 
 ### 🟣 Welcome Screen
-![Welcome](./https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/welcome.png.png)
+![Welcome]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/welcome.png.png)
 
 ### 🏠 Dashboard
-![Dashboard](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/dashboard.png.png)
+![Dashboard]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/dashboard.png.png)
 
 ### ➕ Add Task
-![Add Task](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/add-task.png.png)
+![Add Task]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/add-task.png.png)
 
 ### ✏️ Edit Task
-![Edit Task](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/edit-task.png.png)
+![Edit Task]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/edit-task.png.png)
 
 ### ✅ Completed Tasks
-![Completed](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/completed.png.png)
+![Completed]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/completed.png.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/dark-mode.png.png)
+![Dark Mode]
+![image alt](https://github.com/ZahidKhan28/CodSoft/blob/c3f467937b938b6c3adfec8b990bed6d1fb79db3/screenshots/dark-mode.png.png)
 
 ---
 
